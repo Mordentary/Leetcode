@@ -8,6 +8,7 @@ lib/
 .idea/
 *.swp
 *.swo
+.vs/
 
 # Compiled files
 *.exe
